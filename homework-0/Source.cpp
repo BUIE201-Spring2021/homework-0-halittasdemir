@@ -6,5 +6,6 @@ int main()
 {
 	cout << "Hello, World" << endl;
 
+cout << "My name is Halit" << endl;
 	return 0;
 }
